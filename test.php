@@ -13,3 +13,4 @@ echo "</pre>";
 
 ?>
 Something is wrong with the XAMPP installation :-(
+change lan 1
